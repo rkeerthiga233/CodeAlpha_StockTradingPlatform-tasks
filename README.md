@@ -1,0 +1,2 @@
+# CodeAlpha_StockTradingPlatform-tasks
+CodeAlpha_StockTradingPlatform
